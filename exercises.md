@@ -1,4 +1,4 @@
-# [AltSchool](https://altschoolafrica.com)Cloud-Engineering Exercises
+# [AltSchool](https://altschoolafrica.com) Cloud-Engineering Exercises
 
 ## Exercise 1
 
