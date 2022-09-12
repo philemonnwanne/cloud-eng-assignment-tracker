@@ -18,7 +18,7 @@
 ### Task:
 * Create 3 groups – admin, support & engineering and add the admin group to sudoers. 
 * Create a user in each of the groups. 
-* Generate SSH keys for the user in the admin group
+* Generate SSH keys for the user in the admin group.
 ### Instruction:
 - [ ] Submit the contents of /etc/passwd, /etc/group, /etc/sudoers
 
@@ -27,15 +27,22 @@
 * Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package repo.
 ### Instruction:
 - [ ] Learn how to use the add-apt-repository command
-- [ ] Submit the content of /etc/apt/sources.list and the output of php -v command.
+- [ ] Submit the content of /etc/apt/sources.list and the output of php -v command
 
 ## Exercise 5
 ### Task: 
-* You already have Github account, aso setup a GitLab account if you don’t have one already
-* You already have a altschool-cloud-exercises project, clone the project to your local system
-* Setup your name and email in Git’s global config
+* You already have Github account, aso setup a GitLab account if you don’t have one already.
+* You already have a altschool-cloud-exercises project, clone the project to your local system.
+* Setup your name and email in Git’s global config.
 ### Instruction:
 Submit the output of:
 - [ ] git config -l
 - [ ] git remote -v
 - [ ] git log
+
+## Exercise 6
+### Task: 
+* Review the CIS benchmark for ubuntu, and try to implement at least 10 of the recommendations that we made within the benchmark.
+
+### Instruction:
+  - [ ] 
