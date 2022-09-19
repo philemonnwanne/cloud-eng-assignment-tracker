@@ -70,4 +70,4 @@ date("F d, Y h:i:s A e", time());
 ```
 
 ### Instruction:
-- Submit the Ansible playbook, the output of systemctl status apache2 after deploying the playbook and a screenshot of the rendered page
+- Submit the Ansible playbook, the output of `systemctl status apache2` after deploying the playbook and a screenshot of the rendered page
