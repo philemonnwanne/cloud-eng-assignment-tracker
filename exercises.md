@@ -57,7 +57,7 @@ Submit the output of:
 
 - [ ] Submit the content of your script, cronjob and a sample of the email sent, all in the folder for this exercise.
 
-## Exercise 9
+## Exercise 8
 
 ### Task:
 * Create an Ansible Playbook to setup a server with Apache
