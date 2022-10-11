@@ -84,7 +84,7 @@ date("F d, Y h:i:s A e", time());
 - [ ] Submit all your answer as a markdown file in the folder for this exercise.
 
 
-# MINI PROJECT (Exercise 10)
+# MINI PROJECT ([Exercise]() 10)
 
 We will be deploying a real life application:
 - Demo Project: https://github.com/f1amy/laravel-realworld-example-app
