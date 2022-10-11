@@ -4,4 +4,6 @@
 
 This is a repo meant for documenting all my [altSchool](https://altschoolafrica.com) cloud engineering assignments.
 
-The goal is to update this repo each time a new assignment is given, inorder not to miss anyone.
+The goal is to update this repo each time a new assignment is given, in order not to miss anyone.
+
+Click [here](https://github.com/philemonnwanne/cloud-eng-assignment-tracker/blob/main/second-semester-exercises.md) to access the exercises
