@@ -65,7 +65,7 @@ Submit the output of:
 * Host an index.php file with the following content, as the main file on the server:
 ```php
 <?php
-date("F d, Y h:i:s A e", time());
+echo date("F d, Y h:i:s A e", time());
 ?>
 ```
 
