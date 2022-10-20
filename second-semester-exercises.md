@@ -65,6 +65,7 @@ Submit the output of:
 * Host an index.php file with the following content, as the main file on the server:
 ```php
 <?php
+date_default_timezone_set('Africa/Lagos');
 echo date("F d, Y h:i:s A e", time());
 ?>
 ```
