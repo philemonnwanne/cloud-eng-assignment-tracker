@@ -6,4 +6,4 @@ This is a repo meant for documenting all my [altSchool](https://altschoolafrica.
 
 The goal is to update this repo each time a new assignment is given, in order not to miss anyone.
 
-Click [here](https://github.com/philemonnwanne/cloud-eng-assignment-tracker/blob/main/second-semester-exercises.md) to access the exercises
+Click [here](https://github.com/philemonnwanne/cloud-eng-assignment-tracker/blob/main/third-semester-exercises.md) to access the exercises
