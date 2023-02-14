@@ -1,4 +1,4 @@
-# AltSchool Cloud-Engineering Exercises
+# AltSchool Cloud-Engineering Third Semester Exercises
 
 ## [Exercise]() 1
 ### Task: 
